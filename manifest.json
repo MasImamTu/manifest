@@ -1,12 +1,12 @@
 {
-  "name": "Enter Blog IM",
-  "short_name": "Enter Blog IM",
+  "name": "EnterBlogIM",
+  "short_name": "EnterBlogIM",
   "start_url": "https://www.enterblog.my.id/",
   "display": "standalone",
   "background_color": "#fff",
   "theme_color": "#DD2C00",
   "description": "Kami selalu menampilkan produk digital Internet Marketing yang terbaik dan terpercaya.
-Anda bisa mulai mencari produk digital yang diinginkan",
+Anda bisa mulai mencari produk digital yang di inginkan.",
   "icons": [{
     "src": "https://1.bp.blogspot.com/-s74b-RKwVmQ/XarTSunJvoI/AAAAAAAAAEo/aIxp4KcxR20XVV_iCJzjMLd8a2wxQ5oUACLcBGAsYHQ/s48/eb.png",
     "sizes": "48x48",
@@ -20,7 +20,7 @@ Anda bisa mulai mencari produk digital yang diinginkan",
     "sizes": "96x96",
     "type": "image/png"
   }, {
-    "src": "https://1.bp.blogspot.com/-s74b-RKwVmQ/XarTSunJvoI/AAAAAAAAAEo/aIxp4KcxR20XVV_iCJzjMLd8a2wxQ5oUACLcBGAsYHQ/s1/44eb.png",
+    "src": "https://1.bp.blogspot.com/-s74b-RKwVmQ/XarTSunJvoI/AAAAAAAAAEo/aIxp4KcxR20XVV_iCJzjMLd8a2wxQ5oUACLcBGAsYHQ/s144/eb.png",
     "sizes": "144x144",
     "type": "image/png"
   }, {
